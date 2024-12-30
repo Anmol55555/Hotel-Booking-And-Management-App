@@ -1,2 +1,2 @@
 # Hotel-Booking-And-Management-App
-A hotel booking and management application based on SpringBoot as backend, React as frontend and MongoDB as DB.
+A full-stack hotel booking and management application built with Spring Boot for the backend and React for the frontend. The application allows for comprehensive management of users, rooms, and bookings, with admin-level controls for handling various operations, including user registration, room management, and booking activities. The backend is powered by Spring Boot and MongoDB, offering a structured API for efficient handling of these tasks, while the frontend provides an interactive interface for users and administrators.
